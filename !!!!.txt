@@ -1,0 +1,7 @@
+This is NOT a copy of Pipe Locator on v3rmillion.net
+The UI and Features are only inspired on the original Locator.
+I also made sure the code is different from the original Locator.
+
+=============Thanks For Reading============
+Creator: demonboii#6942
+===========================================
